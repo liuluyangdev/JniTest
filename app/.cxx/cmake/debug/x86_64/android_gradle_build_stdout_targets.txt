@@ -1,0 +1,5 @@
+ninja: Entering directory `C:\Users\qliul\AndroidStudioProjects\JNITest\app\.cxx\cmake\debug\x86_64'
+[1/4] Building CXX object CMakeFiles/hello-lib.dir/hello-lib.cpp.o
+[2/4] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[3/4] Linking CXX shared library C:\Users\qliul\AndroidStudioProjects\JNITest\app\build\intermediates\cmake\debug\obj\x86_64\libnative-lib.so
+[4/4] Linking CXX shared library C:\Users\qliul\AndroidStudioProjects\JNITest\app\build\intermediates\cmake\debug\obj\x86_64\libhello-lib.so

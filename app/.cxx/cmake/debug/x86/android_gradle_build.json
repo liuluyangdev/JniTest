@@ -1,0 +1,53 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\qliul\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\.cxx\\cmake\\debug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\qliul\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\.cxx\\cmake\\debug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello-lib-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\qliul\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\.cxx\\cmake\\debug\\x86",
+        "hello-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "hello-lib",
+      "output": "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libhello-lib.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\qliul\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\.cxx\\cmake\\debug\\x86",
+        "native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "output": "C:\\Users\\qliul\\AndroidStudioProjects\\JNITest\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,26 @@
+# ninja log v5
+0	3159	647082371	CMakeFiles/native-lib.dir/native-lib.cpp.o	3eabf1d8caa611b6
+3161	5725	647082373	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90d810589e6019f8
+2	1224	647085154	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1224	2456	647085155	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+4	1691	647086862	CMakeFiles/native-lib.dir/native-lib.cpp.o	3eabf1d8caa611b6
+1691	2931	647086863	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90d810589e6019f8
+4	1668	647087058	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1668	2889	647087059	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+3	1723	647087104	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1723	2952	647087105	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+5	1685	647104992	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1685	2920	647104993	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+3	1636	647106260	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1636	2866	647106261	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+3	1686	647111383	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1686	2939	647111384	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+3	1887	647112047	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1887	3402	647112049	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+1	19	0	clean	69bc96f65f3e67e
+11	1732	647113209	CMakeFiles/native-lib.dir/native-lib.cpp.o	3eabf1d8caa611b6
+3	1740	647113209	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1732	3050	647113210	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	90d810589e6019f8
+1740	3057	647113210	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038
+3	1710	647115114	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	bbd186e9fc66ff3c
+1710	2980	647115116	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/x86/libhello-lib.so	f8de349987457038

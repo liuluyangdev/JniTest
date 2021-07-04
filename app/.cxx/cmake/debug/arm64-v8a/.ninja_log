@@ -1,0 +1,6 @@
+# ninja log v5
+1	1694	647106257	CMakeFiles/native-lib.dir/native-lib.cpp.o	5da3fa407fc3e7fc
+5	1710	647106257	CMakeFiles/hello-lib.dir/hello-lib.cpp.o	46dcacbebe3c872b
+1697	2981	647106258	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	4bbd0015e74f1380
+1710	2982	647106258	C:/Users/qliul/AndroidStudioProjects/JNITest/app/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-lib.so	1c5a48b310b9a4ca
+1	18	0	clean	69bc96f65f3e67e

@@ -1,0 +1,8 @@
+com/test/jnitest/BuildConfig.java
+ com.test.jnitest.BuildConfig
+com/test/jnitest/JniTest.java
+ com.test.jnitest.JniTest
+com/test/jnitest/databinding/ActivityMainBinding.java
+ com.test.jnitest.databinding.ActivityMainBinding
+com/test/jnitest/MainActivity.java
+ com.test.jnitest.MainActivity
